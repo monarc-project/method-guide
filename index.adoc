@@ -40,3 +40,7 @@
 == Introduction
 
 include::{includedir}/Introduction.adoc[]
+
+== Monarc Method
+
+include::{includedir}/MonarcMethod.adoc[]
