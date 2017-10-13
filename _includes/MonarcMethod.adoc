@@ -1,0 +1,56 @@
+MONARC “Qualitative” is an iterative method of risk analysis in four stages; broadly inspired by ISO/IEC 27005.
+
+=== Iterative Method
+
+MONARC uses an iterative method which enables the pragmatic progression of risk management. This approach, as recommended by ISO 27005, enables the user to restrict himself to the essentials, then to carry out successive iterations to broaden the target or further refine it to cover more technical aspects. The optimised risk models provided as standard with the tool will enable this type of management to be carried out.
+
+image:Methode.png[Methode]
+
+1. Context establishment: Definition of the target of the risk analysis, establishing and describing the context, defining the risk analysis criteria and the structure of the risk approach.
+2. Context modelling: Development phase of the risk model. After having identified the primary assets, they just need to be broken down into support assets on a priority basis. The most common assets are present in the MONARC knowledge base and therefore identification of risk by default is offered. This type of identification may be sufficient in an initial risk iteration; however, it is the responsibility of the risk expert to provide the comprehensive model.
+3. Risk assessment and processing: Risk assessment involves establishing the level of threats and vulnerabilities of the context type under review. The processing of risk entails proposing security measures which tend to lower major risks to acceptable levels and to accept low risks.
+4. Implementation and monitoring: The current MONARC version provides in Beta version follow-ups views in terms of the implementation of recommendations. Monitoring involves checking the major changes to the risk analysis context on a regular basis, as well as any major changes beyond said context which would imply a redesign of an analysis iteration.
+
+=== Qualitative method
+
+MONARC is a “Qualitative” method, i.e. the risk parameters are determined on a contextual digital scale which enables the risks to be prioritised. This approach is based on ISO/IEC 27005 as it is easier to understand, especially for non-tangible criteria in terms of impact and consequences, such as "Reputation", "Image", "Legality", etc.
+
+=== Method broadly based on ISO/IEC 27005
+The illustration above displays the similarities between ISO/IEC 27005 and MONARC.
+
+image:Monarcvs27005.png[Monarcvs27005]
+
+The sub-stages provided by the method are also in line with ISO/IEC 27005:
+
+image:MethodDetailed.png[MethodDetailed]
+
+=== Access to methodology screens
+
+Access to the views of the various stages of the method is provided by clicking on the numbers 1 to 4, which are displayed under the Breadcrumbs in the main MONARC view.
+The ISO/IEC 27005 processes are implemented via the views.
+
+image:MethodScreen.png[MethodScreen]
+
+=== Definition of the risk analysis context
+
+By clicking on number 1, the following menu will appear:
+
+image:MethodScreenStep1.png[MethodScreenStep1]
+
+[NOTE]
+===============================================
+1. Ticking the boxes enables the user to develop the progress status of the method
+2. Clicking on the heading provides access to the management contextual sub-screen
+===============================================
+
+By clicking on number 2, the following menu will appear:
+
+image:MethodScreenStep2.png[MethodScreenStep2]
+
+By clicking on number 3, the following menu will appear:
+
+image:MethodScreenStep3.png[MethodScreenStep3]
+
+By clicking on number 4, the following menu will appear:
+
+image:MethodScreenStep4.png[MethodScreenStep4]
