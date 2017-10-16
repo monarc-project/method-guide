@@ -48,3 +48,7 @@ include::{includedir}/MonarcMethod.adoc[]
 == Definition of the risk analysis context
 
 include::{includedir}/ContextDefinition.adoc[]
+
+== Context Modeling
+
+include::{includedir}/ContextModeling.adoc[]

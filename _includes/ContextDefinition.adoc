@@ -40,10 +40,11 @@ This list is not exhaustive; you can add questions of your choice at the end of 
 The assessment of threats, in similar fashion to the assessment of trends, takes the form of a meeting involving key personnel in the organisation.
 The purpose is to review the majority of threats by gathering information on the past and reviewing the general observations made by the group.
 The principle is to obtain a consensus on the probability of the threat on a scale which is easy to interpret:
-•	Relatively low: Never occurred, really not likely
-•	Normal: No clear position, no opinion
-•	Relatively +: Already occurred
-•	Relatively ++: Already occurred on one or two occasions
+
+*	Relatively low: Never occurred, really not likely
+*	Normal: No clear position, no opinion
+*	Relatively +: Already occurred
+*	Relatively ++: Already occurred on one or two occasions
 The security expert is responsible for converting the consensus into a probability value of 1 to n which shall be used in the model.
 
 image:ThreatAssessment.png[ThreatAssessment]

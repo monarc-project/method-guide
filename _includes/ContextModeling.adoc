@@ -1,0 +1,43 @@
+By clicking on number 2, the following menu will appear:
+
+image:MethodScreenStep2Detailed.png[MethodScreenStep2Detailed]
+
+=== Identification of assets, vulnerabilities
+
+Clicking on the link will generate the main view of MONARC.
+The purpose is to create the risk model by using the assets in the library.
+The principle of the modelling is to place at the root the analysis of the primary assets, then place the support assets which make up the parts above it.
+The context establishment phase is used for determining the primary assets which will be the subject of the analysis. At this stage of the analysis, certain secondary assets may already be known.
+By default, MONARC offers a “Front Office” and “Back Office” structure; however, this is not an obligation. It is vital that the construction of the model follows a contextual logic, the assets and terms listed must use the organisation's terminology. To do this, the user must not hesitate to rename the assets provided by default by the library.
+
+Principe of the "front office"/"back office" structure
+
+image:FrontBack.png[FrontBack]
+
+*	The “Front Office” represents the “user” side; for example, in the case of a “Human Resources” department we will find employees and the complete IT system to which they have access (office, workstation, hardware, software, individuals, etc.).
+*	The “Back Office” represents the IT and organisational side of the organisation that are common to all concerned (building, data centre, network, administrators, common rules, etc.).
+
+=== Assessment of impact and consequences
+
+For each primary asset, the impact and consequences which may apply must be defined, if the risks in the model arise. By default, all the supporting assets will inherit these impacts, but it is also possible to redefine them.
+When the primary asset is a service, then the “C” (Confidentiality) and the “I” (Integrity) refers to the most sensitive information of the service in question. “A” (Availability) refers to the service and the information, based on the principle that if the information is available, the service will also be available.
+When the primary asset is the information, there is no ambiguity regarding the CID criteria - it refers to all the information.
+In certain rarer cases, if the “C” associated with a service conveys the confidentiality of the operating procedure (e.g. manufacturing process), the user just has to express the assets in the model separately in the form of an informational asset and a service.
+
+image:ImpactsConsequences.png[ImpactsConsequences]
+
+The value of the CID criteria is deduced automatically according to the ROLFP consequences or other consequences which have been associated with them (maximum value).
+For example: In the case of the abovementioned example, the “3” impact level on confidentiality is explained by the maximum ROLFP value regarding the confidentiality, which in this case is “3” in terms of consequence for the person.
+
+=== Summary of assets/impact
+
+The summary of the assets will provide editorial content that justifies the choice of assets and impact for the deliverable.
+
+image:SummaryAssetImpact.png[SummaryAssetImpact]
+
+=== Deliverable: Validation of the context
+
+This deliverable covers all the significant primary assets of the model, i.e. those on which the impact is reported as well as the asset summary.
+A form has to be filled in. When the user clicks on “Save”, a file in Word format is generated.
+
+image:DeliverableContext.png[DeliverableContext]
