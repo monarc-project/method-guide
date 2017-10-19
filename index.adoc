@@ -52,3 +52,7 @@ include::{includedir}/ContextDefinition.adoc[]
 == Context Modeling
 
 include::{includedir}/ContextModeling.adoc[]
+
+== Risk Assessment and processing
+
+include::{includedir}/RiskAssessment.adoc[]

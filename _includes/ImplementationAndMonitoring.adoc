@@ -1,0 +1,11 @@
+By clicking on number 4, the following menu will appear:
+
+image:MethodScreenStep4Detailed.png[MethodScreenStep4Detailed]
+
+This view goes beyond the ISO/IEC 27005, as it enables the user to manage the follow-up to the implementation of the measures.
+The current version is in Beta; it has been developed, but we are awaiting feedback from users before carrying out improvements.
+The sequencing of activities is as follows:
+*	A person responsible and a deadline will be established for each recommendation.
+*	When the recommendation has been fully implemented, validation is requested for each risk processed by the recommendation in question.
+*	For each risk, the latest status is documented and the residual risk values become the actual risk.
+This procedure is followed for each recommendation.
