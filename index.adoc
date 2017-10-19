@@ -56,3 +56,7 @@ include::{includedir}/ContextModeling.adoc[]
 == Risk Assessment and processing
 
 include::{includedir}/RiskAssessment.adoc[]
+
+== Implementation and monitoring
+
+include::{includedir}/ImplementationAndMonitoring.adoc[]
