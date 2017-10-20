@@ -103,7 +103,7 @@ It is also possible to add personalised consequences as well as impact criteria.
 
 The same scales are used to process information risk and operational risk; there is simply a difference of interpretation :
 
-*	The information risks are evaluated on the CID criteria by taking into account the ROLFP consequences.
+*	The information risks are evaluated on the CIA criteria by taking into account the ROLFP consequences.
 *	Operational risks are directly evaluated on the ROLFP criteria
 
 ==== Scale of threats

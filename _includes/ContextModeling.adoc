@@ -21,12 +21,12 @@ image:FrontBack.png[FrontBack]
 
 For each primary asset, the impact and consequences which may apply must be defined, if the risks in the model arise. By default, all the supporting assets will inherit these impacts, but it is also possible to redefine them.
 When the primary asset is a service, then the “C” (Confidentiality) and the “I” (Integrity) refers to the most sensitive information of the service in question. “A” (Availability) refers to the service and the information, based on the principle that if the information is available, the service will also be available.
-When the primary asset is the information, there is no ambiguity regarding the CID criteria - it refers to all the information.
+When the primary asset is the information, there is no ambiguity regarding the CIA criteria - it refers to all the information.
 In certain rarer cases, if the “C” associated with a service conveys the confidentiality of the operating procedure (e.g. manufacturing process), the user just has to express the assets in the model separately in the form of an informational asset and a service.
 
 image:ImpactsConsequences.png[ImpactsConsequences]
 
-The value of the CID criteria is deduced automatically according to the ROLFP consequences or other consequences which have been associated with them (maximum value).
+The value of the CIA criteria is deduced automatically according to the ROLFP consequences or other consequences which have been associated with them (maximum value).
 For example: In the case of the abovementioned example, the “3” impact level on confidentiality is explained by the maximum ROLFP value regarding the confidentiality, which in this case is “3” in terms of consequence for the person.
 
 === Summary of assets/impact
