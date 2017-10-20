@@ -32,6 +32,8 @@ There are four ways to process the risk:
 All risks covered by one of the four procedures described above are registered in the risk management plan, irrespective of whether they are information risks or operational risks.
 The calculation formula is not the same for both types of risk; therefore, it is the risk acceptance thresholds which establish the order of risk. Nevertheless, it is possible to reset the order of the risk processing plan before generating the final deliverable.
 
+image:PTR.png[Risk tratment plan]
+
 === Deliverable: End report
 
 The deliverable contains a complete list of all the information gathered and entered in MONARC, including that contained in the two previous deliverables.

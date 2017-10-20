@@ -3,11 +3,19 @@ By clicking on number 4, the following menu will appear:
 image:MethodScreenStep4Detailed.png[MethodScreenStep4Detailed]
 
 This view goes beyond the ISO/IEC 27005, as it enables the user to manage the follow-up to the implementation of the measures.
-The current version is in Beta; it has been developed, but we are awaiting feedback from users before carrying out improvements.
-The sequencing of activities is as follows:
 
-*	A person responsible and a deadline will be established for each recommendation.
-*	When the recommendation has been fully implemented, validation is requested for each risk processed by the recommendation in question.
-*	For each risk, the latest status is documented and the residual risk values become the actual risk.
+image:PTRImplementation.png[PTRImplementation]
 
-This procedure is followed for each recommendation.
+1. This is a recommandation established before.
+2. You can put a comment for the implementation of the recommendation.
+3. For each recommendation you can set a manager.
+4. For each recommenddation you can set a deadline.
+5. Click on this part to implement the recommenation and switch on the following view.
+
+image:RecommendationImplementation.png[RecommendationImplementation]
+
+1. Set the new control, now in place. It will replace the old one in the risk analysis and also replace the old current risk by the residual risk.
+2. Definitively validate the measure.
+
+Follow the same procedure for each recommendation.
+After that go to your risk analysis and make a second iteration.  
