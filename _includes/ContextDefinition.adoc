@@ -128,21 +128,12 @@ image:ScaleVulunerabilities.png[ScaleVulunerabilities]
 There are two separate tables for acceptability thresholds, as operational risk and information risk are not calculated in the same way.
 Information risks are calculated using three criteria:
 
-[horizontal]
-image:CIDFormula.png[CIDFormula]:: (Impact x Threat x Vulnerability)
-
 image:InformationTresholds.png[InformationTresholds]
 
-Operational riks are calculated using two criteria :
-
-[horizontal]
-image:OperationalFormula.png[OperationalFormula]:: (Impact x Probability)
-
-The “Probability” uses the threat scale; in reality, this is similar to the scenario expressed by the risk.
-
-image:OperationalTresholds.png[OperationalTresholds]
-
-1)	Modification of thresholds levels. The table displayed above (as well as the risk analysis tables) is (are) updated automatically.
+1. Modification of thresholds levels of informations risks. The table displayed above (as well as the risk analysis tables) is updated automatically.
+2. Information risks are calculated using three criteria: Impact x Threat x Vulnerability
+3. Modification of thresholds levels of operational risks. The table displayed above (as well as the risk analysis tables) is updated automatically.
+4. Operational riks are calculated using two criteria: Impact x Probability
 
 === Deliverable: Validation of the context
 
