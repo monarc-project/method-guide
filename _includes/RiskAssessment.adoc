@@ -24,7 +24,7 @@ There are four ways to process the risk:
 
 1.	Accept: The risk is accepted in its current form. No additional action will be initiated.
 2.	Modify/reduce: Measures are put in place to reduce the risk to an acceptable level. The reduction level is then evaluated in order to calculate the residual risk.
-3.	Share/refuse: in the case of insurance, for example. This type of processing is specific, as it tends to reduce the risk impact and not the vulnerability. The residual risk cannot be calculated.
+3.	Share: in the case of insurance, for example. This type of processing is specific, as it tends to reduce the risk impact and not the vulnerability. The residual risk cannot be calculated.
 4.	Refuse: The cause of the risk is eliminated; after processing, the risk must not longer be present.
 
 ===	Management of the processing plan
