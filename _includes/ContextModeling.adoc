@@ -14,9 +14,9 @@ Principe of the "front office"/"back office" structure
 
 image:FrontBack.png[FrontBack]
 
-[cols="^1a,12a"]
+[cols="^1a,12a",grid=none,frame=none]
 |===
-^.^| image:Step.png[Step,pdfwidth=15vw]:: 
+^.^| image:Step.png[Step,pdfwidth=15vw]::
 |
 *	The “Front Office” represents the “user” side; for example, in the case of a “Human Resources” department we will find employees and the complete IT system to which they have access (office, workstation, hardware, software, individuals, etc.).
 *	The “Back Office” represents the IT and organisational side of the organisation that are common to all concerned (building, data centre, network, administrators, common rules, etc.).
