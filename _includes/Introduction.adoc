@@ -7,8 +7,7 @@ The purpose of this document is to explain the procedures of the MONARC method b
 [NOTE]
 ===============================================
 * link:/quick-start[*Quick Start*]: Provide a quick start with MONARC.
-* link:/Method-guide[*Method guide*]: Complete documentation of the
-method.
+* link:/user-guide[*User guide*]: Complete documentation of the tool.
 * link:/technical-guide[*Technical guide*]: Complete technical
 documentation.
 ===============================================
