@@ -2,7 +2,7 @@ By clicking on number 3, the following menu will appear:
 
 image:MethodScreenStep3Detailed.png[MethodScreenStep3Detailed]
 
-Clicking on the link will generate the main view of MONARC.
+Clicking on the link `Estimation, evaluation and risk treatment` will generate the main view of MONARC.
 
 === Risk assessment and processing
 
@@ -10,7 +10,7 @@ The previous phase provided the impact criteria information; now it is necessary
 
 ==== Assessment of the probability of threats
 
-If the threat assessment made while establishing context provided probabilities, it is necessary to return to this screen to run all the threats of the model.
+If the threat assessment made while establishing context provided probabilities (see xref:Assessment of threats[Assessment of threats]), it is necessary to return to this screen to run all the threats of the model.
 Then, when reviewing the model’s risks, the default values may all be revised individually.
 
 ==== Assessment of vulnerabilities
@@ -22,10 +22,10 @@ The level of vulnerabilities depends directly on the security measures in place.
 Processing risks in MONARC involves, in similar fashion to ISO/IEC 27005, making a decision so as to process and not implement the measure in question.
 There are four ways to process the risk:
 
-1.	Accept: The risk is accepted in its current form. No additional action will be initiated.
-2.	Modify/reduce: Measures are put in place to reduce the risk to an acceptable level. The reduction level is then evaluated in order to calculate the residual risk.
-3.	Share: in the case of insurance, for example. This type of processing is specific, as it tends to reduce the risk impact and not the vulnerability. The residual risk cannot be calculated.
-4.	Refuse: The cause of the risk is eliminated; after processing, the risk must not longer be present.
+1.	`Accept`: The risk is accepted in its current form. No additional action will be initiated.
+2.	`Modify/reduce`: Measures are put in place to reduce the risk to an acceptable level. The reduction level is then evaluated in order to calculate the residual risk.
+3.	`Share`: in the case of insurance, for example. This type of processing is specific, as it tends to reduce the risk impact and not the vulnerability. The residual risk cannot be calculated.
+4.	`Refuse`: The cause of the risk is eliminated; after processing, the risk must not longer be present.
 
 ===	Management of the processing plan
 
