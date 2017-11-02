@@ -40,7 +40,7 @@ The summary of the assets will provide editorial content that justifies the choi
 
 image:SummaryAssetImpact.png[SummaryAssetImpact]
 
-=== Deliverable: Validation of the context
+=== Deliverable: Validation of the model
 
 This deliverable covers all the significant primary assets of the model.
 
