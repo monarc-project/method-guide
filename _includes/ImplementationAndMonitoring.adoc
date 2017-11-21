@@ -1,4 +1,4 @@
-By clicking on number 4, the following menu will appear:
+By clicking on number `4`, the following menu will appear:
 
 image:MethodScreenStep4Detailed.png[MethodScreenStep4Detailed]
 
@@ -10,7 +10,7 @@ image:PTRImplementation.png[PTRImplementation]
 2. You can put a `comment` for the implementation of the recommendation.
 3. For each recommendation you can set a `manager`.
 4. For each recommenddation you can set a `deadline`.
-5. Click on `the icon` to implement the recommenation and switch on the following view.
+5. Click on the icon to implement the recommenation and switch on the following view.
 
 image:RecommendationImplementation.png[RecommendationImplementation]
 

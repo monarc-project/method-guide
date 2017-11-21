@@ -1,5 +1,6 @@
-= MONARC Method guide
-"security made in Lëtzebuerg" (SMILE) g.i.e.
+= Method Guide
+CASES Luxembourg <info@cases.lu>
+:title-logo-image: images/header.svg
 :Date: 2017-10-13
 :Revision:  0.1
 :description: MONARC Method guide
@@ -36,7 +37,6 @@
 :adp: AsciiDoc Python
 :adr: Asciidoctor
 
-
 == Introduction
 
 include::{includedir}/Introduction.adoc[]
@@ -45,7 +45,7 @@ include::{includedir}/Introduction.adoc[]
 
 include::{includedir}/MonarcMethod.adoc[]
 
-== Definition of the risk analysis context
+== Context Establishment
 
 include::{includedir}/ContextDefinition.adoc[]
 
@@ -53,7 +53,7 @@ include::{includedir}/ContextDefinition.adoc[]
 
 include::{includedir}/ContextModeling.adoc[]
 
-== Risk Assessment and processing
+== Evaluation and treatment of risks
 
 include::{includedir}/RiskAssessment.adoc[]
 

@@ -1,13 +1,10 @@
-By clicking on number 1, the following menu will appear:
+By clicking on number `1`, the following menu will appear:
 
 image:MethodScreenStep1Detailed.png[MethodScreenStep1Detailed]
 
-[NOTE]
-===============================================
-1. Link to the contextual management pop-ups, see the following chapters
-2. Boxes to tick, indicating that the stage selected has closed. This optional information helps to show the progress of the risk analysis project and display the risk representation graph of the dashboard
+1. Link to the contextual management pop-ups, see the following chapters.
+2. Boxes to tick, indicating that the stage selected has closed. This optional information helps to show the progress of the risk analysis project and display the risk representation graph of the dashboard.
 3. Link enabling the `Validation of the context` deliverable to be generated. As part of a consultancy assignment, for instance, it may be helpful to get the client to validate it.
-===============================================
 
 === Risk analysis context
 
@@ -16,26 +13,26 @@ This view offers text encoding and formatting functions, enabling the risk analy
 image:RAContext.png[RiskAnalysisContext]
 
 1.	Access to the text formatting functions (bold, italics, paragraph, text size, etc.). The quality of the encoding directly affects that of the deliverable.
-2.	To display or delete the help area  .
+2.	To display or delete the help area.
 3.	Help area on the content which is recommended for data entry (`Additional information`).
 4.	Chapters recommended by ISO27005. Clicking on the label will place it automatically in the data entry area.
 
-=== Assessment of the trends, threats and overview
+=== Evaluation of the trends, threats and synthesis
 
 image:TrendEvaluation.png[TrendEvaluation]
 
 This stage is divided into three separate parts which structures the data collection necessary for understanding the context to analyse. It is advisable to chair a working party of 5 to 10 people (depending on the organisation), bringing together the members of management, IT, risk management department (if it exists), the heads of departments or key personnel.
 
-1.	`Trends Assessment`: MONARC provides a series of questions to establish the context from a very general perspective (see <<Assessment of trends>>).
-2.	`Threats Assessment`: Enables the threats to be reviewed from a general viewpoint and, possibly, to evaluate by default in the future model (for more information, see <<Assessment of threats>>).
-3.	`Summary` of key points determined during stages 1 and 2 (for more information, see <<Summary of assessments>>).
+1.	`Trends Assessment`: MONARC provides a series of questions to establish the context from a very general perspective (see <<Trends Assessment>>).
+2.	`Threats Assessment`: Enables the threats to be reviewed from a general viewpoint and, possibly, to evaluate by default in the future model (for more information, see <<Threats Assessment>>).
+3.	`Summary` of key points determined during stages 1 and 2 (for more information, see <<Summary>>).
 
-==== Assessment of trends
+==== Trends Assessment
 
 The assessment of trends provides a series of questions to establish the context from a very general perspective. These questions highlight the selection of key assets which must be taken into account during the analysis, the security criteria, as well as a few indicators concerning the motives of the attack and the external context of the target.
 This list is not exhaustive; you can add questions of your choice at the end of the page.
 
-==== Assessment of threats
+==== Threats Assessment
 
 The assessment of threats, in similar fashion to the assessment of trends, takes the form of a meeting involving key personnel in the organisation.
 The purpose is to review the majority of threats by gathering information on the past and reviewing the general observations made by the group.
@@ -61,17 +58,17 @@ image:ThreatAssessment.png[ThreatAssessment]
 
 [WARNING]
 ===============================================
-For point 7 and 8, you have to wait to have set the scales of your risk analysis see xref:Definition of the assessment, acceptance and impact criteria[Definition of the assessment, acceptance and impact criteria]
+For point 7 and 8, you have to set the scales of your risk analysis to unhide this funtion (see xref:Definition of the risk evaluation criteria[Definition of the risk evaluation criteria])
 ===============================================
 
-==== Summary of assessments
+==== Summary
 
 In similar fashion to the context of the risk analysis, this view enables the user to summarise the pertinent information gathered during the assessment of trends and threats.
 This text enables the user to enrich the deliverable.
 
 image:SummaryAssessment.png[SummaryAssessment]
 
-=== Risk analysis context
+=== Risks management organisation
 
 This view enables the user to encode the information on the context of the risk management, for instance, with regard to the roles and responsibilities, the stakeholders, etc.
 
@@ -79,15 +76,15 @@ image:RiskAnalysisContext.png[RiskAnalysisContext]
 
 [NOTE]
 ===============================================
-For more information, please see chapter 7.4, of ISO/IEC 27005: 2011
+For more information, please see chapter 7.4, of ISO/IEC 27005:2011
 ===============================================
 
-=== Definition of the assessment, acceptance and impact criteria
+=== Definition of the risk evaluation criteria
 
 This involves personalising the scales and impact criteria and consequences.
 MONARC provides values by default which can be personalised depending on the context. All the scales can be modified and the levels personalised. However, it is no longer possible to modify the scales when an assessment has been encoded.
 
-==== Scale of impact
+==== Impact scale
 
 image:ScaleImpact.png[ScaleImpact]
 
@@ -104,23 +101,24 @@ the management is similar to an Excel table, by clicking on a heading, it is pos
 
 By default, the impact and consequence scale includes the following criteria:
 
-*	C: Confidentiality
-*	I: Integrity
-*	A: Availability
-*	R: Reputation
-*	O: Operation
-*	L: Legal
-*	F: Financial
-*	P: Person (impact on the person)
+*	**C**onfidentiality
+*	**I**ntegrity
+*	**A**vailability
+*	**R**eputation
+*	**O**peration
+*	**L**egal
+*	**F**inancial
+*	**P**erson (impact on the person)
 
 It is also possible to add personalised consequences as well as impact criteria.
 
 The same scales are used to process information risk and operational risk; there is simply a difference of interpretation :
 
-*	The information risks are evaluated on the CIA criteria by taking into account the ROLFP consequences.
-*	Operational risks are directly evaluated on the ROLFP criteria
+*	The information risks are evaluated on the CIAfootnoteref:[CIA,Confidentiality, Integrity and Availability.] criteria by taking into account the ROLFPfootnoteref:[rolfp,Reputation, Operational, Legal, Financial and Personal] consequences.
+*	Operational risks are directly evaluated on the ROLFPfootnoteref:[rolfp] criteria
 
-==== Scale of threats
+
+==== Likelihood scale
 
 The scale of threats is used to calculate information risks and the probability of scenarios relating to operational risks
 
@@ -129,7 +127,7 @@ image:ScaleThreats.png[ScaleThreats]
 1.	Click to modify the number of scales
 2.	Click to edit the heading on each scale (Management identical to the impact scale).
 
-==== Scale of vulnerabilities
+==== Vulnerabilities scale
 
 The scale of vulnerabilities is only used for calculating information risks.
 
@@ -138,7 +136,7 @@ image:ScaleVulunerabilities.png[ScaleVulunerabilities]
 1.	Click to modify the number of scales
 2.	Click to edit the heading on each scale (Management identical to the impact scale).
 
-==== Management of acceptability thresholds
+==== Acceptance thresholds
 There are two separate tables for acceptability thresholds, as operational risk and information risk are not calculated in the same way.
 Information risks are calculated using three criteria:
 
@@ -149,7 +147,7 @@ image:InformationTresholds.png[InformationTresholds]
 3. Modification of thresholds levels of operational risks. The table displayed above (as well as the risk analysis tables) is updated automatically.
 4. Operational riks are calculated using two criteria: `Impact x Probability`
 
-=== Deliverable: Validation of the context
+=== Deliverable: Context validation
 
 This deliverable includes all the information gathered and entered in the context establishment phase. It can be used to validate the information provided by the client, before beginning the risk identification.
 A form has to be filled in. When the user clicks on `Save`, a file in Word format is generated.
