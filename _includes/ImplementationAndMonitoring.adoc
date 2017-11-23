@@ -10,12 +10,15 @@ image:PTRImplementation.png[PTRImplementation]
 2. You can put a `comment` for the implementation of the recommendation.
 3. For each recommendation you can set a `manager`.
 4. For each recommenddation you can set a `deadline`.
-5. Click on the icon to implement the recommenation and switch on the following view.
+5. Click on the icon image:Action.png[pdfwidth=3%,width=2%] to implement the recommenation and switch on the following view.
 
 image:RecommendationImplementation.png[RecommendationImplementation]
 
 1. Set the `new control`, now in place. It will replace the old one in the risk analysis and also replace the old current risk by the residual risk.
-2. Definitively validate the measure by clicking on `the icon`.
+2. Definitively validate the measure by clicking on icon image:Check.png[pdfwidth=3%,width=2%]
 
+[NOTE]
+======
 Follow the same procedure for each recommendation.
 After that go to your risk analysis and make a second iteration.
+======

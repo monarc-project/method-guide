@@ -49,3 +49,5 @@ Those on which the impact is reported as well as the asset summary.
 A form has to be filled in. When the user clicks on `Save`, a file in Word format is generated.
 
 image:DeliverableContext.png[DeliverableContext]
+
+<<<

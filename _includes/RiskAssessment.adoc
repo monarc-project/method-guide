@@ -51,3 +51,5 @@ The deliverable contains a complete list of all the information gathered and ent
 A form has to be filled in. Moreover, it is possible to add a `summary of risk evaluation`. When the user clicks on `Save`, a file in Word format is generated.
 
 image:DeliverableFinal.png[DeliverableFinal]
+
+<<<

@@ -153,3 +153,5 @@ This deliverable includes all the information gathered and entered in the contex
 A form has to be filled in. When the user clicks on `Save`, a file in Word format is generated.
 
 image:DeliverableContextValidation.png[DeliverableContextValidation]
+
+<<<

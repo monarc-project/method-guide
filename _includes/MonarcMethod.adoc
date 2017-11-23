@@ -4,7 +4,7 @@ MONARC is an iterative and qualitative method of risk analysis in four stages; b
 
 MONARC uses an iterative method which enables the pragmatic progression of risk management. This approach, as recommended by ISO 27005, enables the user to restrict himself to the essentials, then to carry out successive iterations to broaden the target or further refine it to cover more technical aspects. The optimised risk models provided as standard with the tool will enable this type of management to be carried out.
 
-image::Methode.png[align="center"]
+image::Methode.png[align="center",pdfwidth=70%,width=60%]
 
 1. `Context establishment`: Definition of the target of the risk analysis, establishing and describing the context, defining the risk analysis criteria and the structure of the risk approach.
 2. `Context modelling`: Development phase of the risk model. After having identified the primary assets, they just need to be broken down into support assets on a priority basis. The most common assets are present in the MONARC knowledge base and therefore identification of risk by default is offered. This type of identification may be sufficient in an initial risk iteration; however, it is the responsibility of the risk expert to provide the comprehensive model.
@@ -44,3 +44,5 @@ image::MethodSteps.png[MethodSteps,pdfwidth=99%,align="center"]
 
 1. Ticking the boxes enables the user to develop the progress status of the method
 2. Clicking on the heading provides access to the management contextual sub-screen
+
+<<<
