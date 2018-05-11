@@ -22,3 +22,22 @@ image:RecommendationImplementation.png[RecommendationImplementation]
 Follow the same procedure for each recommendation.
 After that go to your risk analysis and make a second iteration.
 ======
+
+=== Implementation history
+
+All validations are stored in history and can be consulted:
+
+image:RecommendationImplementationHistory.png[RecommendationImplementationHistory]
+
+1. Click to view past recommendations
+
+image:RecommendationImplementationPast.png[RecommendationImplementationPast]
+
+=== Deliverable: Implementation Plan
+
+The deliverable contains the recommendations to implement table and the implemented recommendations table.
+A form has to be filled in. When the user clicks on `Save`, a file in Word format is generated.
+
+image:DeliverableImplementationPlan.png[DeliverableImplementationPlan]
+
+<<<
