@@ -114,8 +114,8 @@ It is also possible to add personalised consequences as well as impact criteria.
 
 The same scales are used to process information risk and operational risk; there is simply a difference of interpretation :
 
-*	The information risks are evaluated on the CIAfootnoteref:[CIA,Confidentiality, Integrity and Availability.] criteria by taking into account the ROLFPfootnoteref:[rolfp,Reputation, Operational, Legal, Financial and Personal] consequences.
-*	Operational risks are directly evaluated on the ROLFPfootnoteref:[rolfp] criteria
+*	The information risks are evaluated on the CIAfootnote:[CIA,Confidentiality, Integrity and Availability.] criteria by taking into account the ROLFPfootnote:[rolfp,Reputation, Operational, Legal, Financial and Personal] consequences.
+*	Operational risks are directly evaluated on the ROLFPfootnote:[rolfp] criteria
 
 
 ==== Likelihood scale
