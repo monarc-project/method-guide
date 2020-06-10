@@ -6,12 +6,10 @@ The purpose of this document is to explain the procedures of the MONARC method b
 
 [NOTE]
 ===============================================
-* link:/quick-start[*Quick Start*]: Provide a quick start with MONARC.
-* link:/user-guide[*User Guide*]: Complete documentation of the tool.
-* link:/technical-guide[*Technical Guide*]: Complete technical
-documentation.
+* link:https://www.monarc.lu/documentation/quick-start[*Quick Start*]: Provide a quick start with MONARC.
+* link:https://www.monarc.lu/documentation/user-guide[*User Guide*]: Complete documentation of the tool.
+* link:https://www.monarc.lu/documentation/technical-guide[*Technical Guide*]: Complete technical documentation.
 ===============================================
-
 
 === Syntax used in the document
 
