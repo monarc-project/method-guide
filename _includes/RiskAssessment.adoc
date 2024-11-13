@@ -6,7 +6,7 @@ Clicking on the link `Estimation, evaluation and risk treatment` will generate t
 
 === Evaluation and treatment of risks
 
-image:ARFull.png[ARFull]
+image:ARFull_1_800.png[ARFull]
 
 The previous phase provided the impact criteria information; now it is necessary to evaluate threats and vulnerabilities in order to calculate risk levels.
 

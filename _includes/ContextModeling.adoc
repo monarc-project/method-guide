@@ -16,7 +16,7 @@ To achieve this, users should feel free to rename the default assets provided by
 
 Principe of the _front office/back office_ structure
 
-image:FrontBack.png[FrontBack]
+image:FrontBack_1_500.png[FrontBack]
 
 1. The `Front Office` represents the “user” side; for instance, in a Human Resources department, this includes employees and the full IT system they access, such as office space, workstations, hardware, software, and personnel.
 2. The `Back Office`, on the other hand, represents the IT and organizational infrastructure shared across the organization, including facilities like buildings, data centres, networks, administrative roles, and common policies.
