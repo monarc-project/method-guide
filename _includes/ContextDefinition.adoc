@@ -1,6 +1,6 @@
 By clicking on number `1`, the following menu appears:
 
-image:MethodScreenStep1Detailed.png[MethodScreenStep1Detailed]
+image:MethodScreenStep_1_800.png[MethodScreenStep1Detailed]
 
 1. Link to the contextual management pop-ups, see the following chapters.
 2. Checkboxes indicate that a selected stage has been completed. This feature helps track the progress of the risk analysis project and displays the risk representation graph on the dashboard.
@@ -10,7 +10,7 @@ image:MethodScreenStep1Detailed.png[MethodScreenStep1Detailed]
 
 This view offers text encoding and formatting functions, enabling the risk analysis target to be contextualised with well-formatted texts that will be documented in the deliverables.
 
-image:RAContext.png[RiskAnalysisContext]
+image:RAContext_1_800.png[RiskAnalysisContext]
 
 1.	Access to the text formatting functions (bold, italics, paragraph, text size, etc.). The quality of the encoding has a direct impact on the quality of the deliverable.
 2.	To display or delete the help area.
@@ -19,7 +19,7 @@ image:RAContext.png[RiskAnalysisContext]
 
 === Evaluation of the trends, threats and synthesis
 
-image:TrendEvaluation.png[TrendEvaluation]
+image:TrendEvaluation_1_800.png[TrendEvaluation]
 
 This stage is divided into three parts to structure the data collection needed for understanding the analysis context. It is recommended to lead a working group of 5 to 10 people (depending on the organization), bringing together management members, IT staff, the risk management department (if applicable), and heads of departments or key personnel.
 
@@ -43,7 +43,7 @@ The goal is to review the majority of threats by gathering information from the 
 *	Relatively `++`: Already occurred on one or two occasions
 The security expert is responsible for converting the consensus into a probability value of 1 to n which shall be used in the model.
 
-image:ThreatAssessment.png[ThreatAssessment]
+image:ThreatAssessment_1_800.png[ThreatAssessment]
 
 1.	Click on the `Threats assessment` tab.
 2.	Heading of the threat.
@@ -85,7 +85,7 @@ MONARC provides values by default which can be personalised depending on the con
 
 ==== Impact scale
 
-image:ScaleImpact.png[ScaleImpact]
+image:ScaleImpact_1_800.png[ScaleImpact]
 
 1.	Click to modify the number of scales.
 2.	Click on `Show hidden impacts` to show or hide the criteria not used in the analysis.
@@ -121,7 +121,7 @@ The same scales are used to assess both information risk and operational risk; t
 
 The scale of threats is used to calculate information risks and the probability of scenarios relating to operational risks
 
-image:ScaleThreats.png[ScaleThreats]
+image:ScaleThreats_1_800.png[ScaleThreats]
 
 1.	Click to modify the number of scales
 2.	Click to edit the heading on each scale (Management identical to the impact scale).
@@ -130,7 +130,7 @@ image:ScaleThreats.png[ScaleThreats]
 
 The scale of vulnerabilities is only used for calculating information risks.
 
-image:ScaleVulunerabilities.png[ScaleVulunerabilities]
+image:ScaleVulnerabilities_1_800.png[ScaleVulunerabilities]
 
 1.	Click to modify the number of scales
 2.	Click to edit the heading on each scale (Management identical to the impact scale).
@@ -139,7 +139,7 @@ image:ScaleVulunerabilities.png[ScaleVulunerabilities]
 There are two separate tables for acceptability thresholds, as operational risk and information risk are calculated differently.
 Information risks are calculated using three criteria:
 
-image:InformationTresholds.png[InformationTresholds]
+image:InformationTresholds_1_800.png[InformationTresholds]
 
 1. Modification of threshold levels of informations risks. The table displayed above (as well as the risk analysis tables) is updated automatically.
 2. Information risks are calculated using three criteria: `Impact x Threat x Vulnerability`.
