@@ -1,4 +1,4 @@
-By clicking on number `2`, the following menu will appear:
+By clicking on number `2`, the following menu appears:
 
 image:MethodScreenStep2Detailed.png[MethodScreenStep2Detailed]
 
@@ -6,34 +6,39 @@ image:MethodScreenStep2Detailed.png[MethodScreenStep2Detailed]
 
 ==== Identification of assets
 
-Clicking on the link `Identification of assets, vulnerabilities and impacts appreciation` will generate the main view of MONARC.
-The purpose is to create the risk model by using the assets in the library.
-The principle of the modelling is to place at the root the analysis of the primary assets, then place the support assets which make up the parts above it.
-The context establishment phase is used for determining the primary assets which will be the subject of the analysis. At this stage of the analysis, certain secondary assets may already be known.
-By default, MONARC offers a `Front Office` and `Back Office` structure; however, this is not an obligation. It is vital that the construction of the model follows a contextual logic, the assets and terms listed must use the organisation's terminology. To do this, the user must not hesitate to rename the assets provided by default by the library.
+Clicking on the link `Identification of assets, vulnerabilities and impacts appreciation` generates the main view of MONARC.
+The goal is to create a risk model using assets from the library. The modelling principle involves placing the primary asset analysis at the root, followed by the supporting assets that comprise its components. The context establishment phase is used to determine the primary assets that will be analyzed.
+
+At this stage of the analysis, certain secondary assets may already be identified.
+By default, MONARC offers a `Front Office` and `Back Office` structure , although this is optional. 
+The construction of the model must follow a contextual logic, with assets and terms reflecting the organization’s specific terminology. 
+To achieve this, users should feel free to rename the default assets provided by the library.
 
 Principe of the _front office/back office_ structure
 
-image:FrontBack.png[FrontBack]
+image:FrontBack_1_500.png[FrontBack]
 
-1.	The `Front Office` represents the “user” side; for example, in the case of a “Human Resources” department we will find employees and the complete IT system to which they have access (office, workstation, hardware, software, individuals, etc.). +
-    The `Back Office` represents the IT and organisational side of the organisation that are common to all concerned (building, data centre, network, administrators, common rules, etc.).
+1. The `Front Office` represents the “user” side; for instance, in a Human Resources department, this includes employees and the full IT system they access, such as office space, workstations, hardware, software, and personnel.
+2. The `Back Office`, on the other hand, represents the IT and organizational infrastructure shared across the organization, including facilities like buildings, data centres, networks, administrative roles, and common policies.
 
 ==== Impacts appreciation
 
 For each primary asset, the impact and consequences which may apply must be defined, if the risks in the model arise. By default, all the supporting assets will inherit these impacts, but it is also possible to redefine them.
-When the primary asset is a service, then the *C* (`Confidentiality`) and the *I* (`Integrity`) refers to the most sensitive information of the service in question. *A* (`Availability`) refers to the service and the information, based on the principle that if the information is available, the service will also be available.
+
+When the primary asset is a service, then the *C* (`Confidentiality`) and the *I* (`Integrity`) refer to the most sensitive information of the service in question. *A* (`Availability`) refers to the service and the information, based on the principle that if the information is available, the service will also be available.
+
 When the primary asset is the information, there is no ambiguity regarding the CIA criteria - it refers to all the information.
+
 In certain rarer cases, if the *C* associated with a service conveys the confidentiality of the operating procedure (e.g. manufacturing process), the user just has to express the assets in the model separately in the form of an informational asset and a service.
 
 image:ImpactsConsequences.png[ImpactsConsequences]
 
-The value of the CIA criteria is deduced automatically according to the ROLFP consequences or other consequences which have been associated with them (maximum value).
-For example: In the case of the abovementioned example, the `3` impact level on confidentiality is explained by the maximum ROLFP value regarding the confidentiality, which in this case is `3` in terms of consequence for the person.
+The value of the CIA criteria is deduced automatically according to the ROLFP consequences or other associated consequences, using the highest applicable value. 
+For example: in the case above, the confidentiality impact level of `3` is set because the highest ROLFP value related to confidentiality is `3`, representing the impact on the individual.
 
 === Summary of assets/impact
 
-The summary of the assets will provide editorial content that justifies the choice of assets and impact for the deliverable.
+The summary of the assets provides an explanation that justifies the selection of assets and their impact on the deliverable.
 
 image:SummaryAssetImpact.png[SummaryAssetImpact]
 

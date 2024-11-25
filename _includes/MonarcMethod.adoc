@@ -2,14 +2,14 @@ MONARC is an iterative and qualitative method of risk analysis in four stages; b
 
 === Iterative Method
 
-MONARC uses an iterative method which enables the pragmatic progression of risk management. This approach, as recommended by ISO 27005, enables the user to restrict himself to the essentials, then to carry out successive iterations to broaden the target or further refine it to cover more technical aspects. The optimised risk models provided as standard with the tool will enable this type of management to be carried out.
+MONARC uses an iterative method which enables the pragmatic progression of risk management. As recommended by ISO 27005, this method allows the user to focus on the essentials initially and then perform successive iterations to expand or refine the scope, addressing more technical aspects as needed. The tool’s optimized risk models, provided as standard, support this type of risk management.
 
 image::Methode.png[align="center",pdfwidth=70%,width=60%]
 
 1. `Context establishment`: Definition of the target of the risk analysis, establishing and describing the context, defining the risk analysis criteria and the structure of the risk approach.
-2. `Context modelling`: Development phase of the risk model. After having identified the primary assets, they just need to be broken down into support assets on a priority basis. The most common assets are present in the MONARC knowledge base and therefore identification of risk by default is offered. This type of identification may be sufficient in an initial risk iteration; however, it is the responsibility of the risk expert to provide the comprehensive model.
+2. `Context modelling`: Development phase of the risk model. Once the primary assets have been identified, they should be broken down into support assets based on priority. The most common assets are available in the MONARC knowledge base, enabling default risk identification. This type of identification may be sufficient in an initial risk iteration; however, it is the responsibility of the risk expert to provide the comprehensive model.
 3. `Evaluation and treatment of risks`: Risk assessment involves establishing the level of threats and vulnerabilities of the context type under review. The processing of risk entails proposing security measures which tend to lower major risks to acceptable levels and to accept low risks.
-4. `Implementation and monitoring`: The current MONARC version provides a follow-ups views in terms of the implementation of recommendations. Monitoring involves checking the major changes to the risk analysis context on a regular basis, as well as any major changes beyond said context which would imply a redesign of an analysis iteration.
+4. `Implementation and monitoring`: The current MONARC version provides follow-up views in terms of the implementation of recommendations. Monitoring involves regularly reviewing significant changes within the risk analysis context, as well as any major external changes that might necessitate a redesign of the analysis iteration.
 
 === Qualitative method
 
@@ -17,10 +17,10 @@ MONARC is a *Qualitative* method,
 
 [NOTE]
 ===============================================
-the risk parameters are determined on a contextual digital scale which enables the risks to be prioritised.
+The risk parameters are determined on a contextual digital scale which enables the risks to be prioritised.
 ===============================================
 
-This approach is based on ISO/IEC 27005 as it is easier to understand, especially for non-tangible criteria in terms of impact and consequences, such as reputation, operational, legal, etc.
+This approach is based on ISO/IEC 27005, as it provides an easier framework for understanding non-tangible criteria related to impact and consequences, such as reputation, operational, and legal factors.
 
 === Method broadly based on ISO/IEC 27005
 The illustration above displays the similarities between ISO/IEC 27005 and MONARC.
